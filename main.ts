@@ -1,3 +1,6 @@
+// Gadget roast: one original line about a microwave that treats heating
+// soup like a performance deserving applause. Short, first-person, one
+// concrete behaviour (the endless beeping) with the turn at the end.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
